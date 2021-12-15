@@ -1,6 +1,4 @@
 # Testowe
-test
-dadasdasdasdsadas
-TESTOWY PRZYAPDEK TESTOWY
-
-MOJE USZANOWANKO KOMPUTERKU. DROGI KOMPUTERKU.fgdsgd
+git add README.md teraz
+git status
+commit -m
